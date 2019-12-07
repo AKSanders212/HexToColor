@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToColor", "HexToColor\HexToColor.csproj", "{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2B3BA8-8285-4EDC-9506-F0CCE5FB547B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60FB987-4EF1-4CCC-81CA-0749CC851DB8}
+	EndGlobalSection
+EndGlobal
